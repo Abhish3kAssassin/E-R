@@ -1,5 +1,7 @@
 # Education Staking Pool
 
+![image](https://github.com/user-attachments/assets/62137f12-3506-4c8f-8aa2-cc6c94d143e0)
+
 ## Overview
 
 This Smart Contract allows users to stake ERC20 tokens and earn rewards while funding educational projects. The reward rate is set to 0.1 (or 10 basis points), rewarding users based on the amount and duration of their stakes.
