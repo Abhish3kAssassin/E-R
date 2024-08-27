@@ -67,3 +67,7 @@ This contract allows users to contribute to educational projects while earning r
 The provided code forms a complete simple staking mechanism where users can stake their tokens, and the contract tracks the staked amounts to calculate and distribute rewards accordingly. The README gives informative details on using the contract, including the functions that it exposes as well as the reward calculation logic and a flowchart describing the flow of operations.
 
  
+# Contact Details
+
+Email : avsh3kcryptocc@gmail.com
+Phone : +918822779049
