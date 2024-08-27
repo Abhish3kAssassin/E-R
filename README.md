@@ -66,6 +66,10 @@ This contract allows users to contribute to educational projects while earning r
 
 The provided code forms a complete simple staking mechanism where users can stake their tokens, and the contract tracks the staked amounts to calculate and distribute rewards accordingly. The README gives informative details on using the contract, including the functions that it exposes as well as the reward calculation logic and a flowchart describing the flow of operations.
 
+# Contract Address
+The current deployed contract address on the Ethereum network is:
+
+0x26C2871378CC43998F33F2085e66448b7798e808
  
 # Contact Details
 
